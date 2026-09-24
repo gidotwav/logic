@@ -1,6 +1,6 @@
-# 🚀 Plataforma Interativa de Lógica de Programação & SQL
+# 🚀 Logicodando - Plataforma Interativa de Lógica de Programação & SQL
 
-Uma plataforma educacional completa, moderna e 100% interativa desenvolvida com **React, TypeScript, Tailwind CSS, SQLite WebAssembly (`sql.js`) e Python Engine client-side**, criada para ensinar Lógica e Bancos de Dados na prática ("Aprender Fazendo").
+**Logicodando** é uma plataforma educacional completa, moderna e 100% interativa desenvolvida com **React, TypeScript, Tailwind CSS, SQLite WebAssembly (`sql.js`) e Python Engine client-side**, criada para ensinar Lógica e Bancos de Dados na prática ("Aprender Fazendo").
 
 ![Preview](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80)
 

@@ -100,11 +100,11 @@ export const Sidebar: React.FC<SidebarProps> = ({
               <Layers className="w-5 h-5" />
             </div>
             <div>
-              <span className="font-extrabold text-base tracking-tight text-slate-900 dark:text-white flex items-center gap-1">
-                CodeLogic <span className="text-sky-500 font-black">& SQL</span>
+              <span className="font-extrabold text-base tracking-tight text-slate-900 dark:text-white flex items-center">
+                Logico<span className="text-emerald-500 font-black">dando</span>
               </span>
               <span className="block text-[10px] font-semibold text-slate-400 tracking-wider uppercase">
-                Aprenda Praticando
+                Lógica & SQL na Prática
               </span>
             </div>
           </button>
